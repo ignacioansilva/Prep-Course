@@ -44,9 +44,9 @@ function saludo(idioma) {
   // Tu código:
   if (idioma === "aleman") {
     return "Guten Tag!";
-  } else if (idioma === mandarin) {
+  } else if (idioma === "mandarin") {
     return "Ni Hao!";
-  } else if (idioma === ingles) {
+  } else if (idioma === "ingles") {
     return "Hello!";
   } else return "Hola!";
 }
@@ -146,7 +146,7 @@ function operadoresLogicos(num1, num2, num3) {
     num3 = num3 + 1;
     return num3;
   } else if (num1 > 0 && num1 > num2 && num1 > num3) {
-    return "Numero 1 es mayor y positivo";
+    return "Número 1 es mayor y positivo";
   } else return false;
 }
 
