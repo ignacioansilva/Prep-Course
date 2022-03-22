@@ -1,0 +1,12 @@
+For: for es un bucle que trabaja con una variable que al someterse a una condicion, 
+devolvera un booleano True o False, esto definira si el bucle se sigue trabajando o se cierra.
+
+La expresion se trabaja entre parentesis, en donde primero definimos la variable, despues, seguido de un punto y coma
+le asignamos la condicion que debe cumplir para ejecutar el bucle, y por ultimo se incrementa la variable.
+
+&&: Esta expresion cumple la funcion de analizar dos condiciones y devolver el boolean True si y solo si ambas son verdaderas. se la conoce como AND.
+
+||: La expresion OR tambien analiza dos condiciones y devuelve False, solo en el caso de que ambas sean falsas, en cualquier otra condicion, retorna el valor True.
+
+!: Por ultimo tenemos la expresion NOT, esta altera el valor de todas las expresiones anteriores, Por ejemplo (1 !== 1) 
+retornara falso mas allá de que las dos expresiones si sean iguales. Otro ejemplo es (!False), que devolvera el boolean True.
