@@ -1,0 +1,4 @@
+Arrays: Se cnoce al array como una lista en la que se pueden almacenar datos de todo tipo,
+ ya sean strings, numeros, booleanos o hasta funciones. Esto se vuelve util a la hora de 
+ buscar estos datos, ya que una vez creado el array podemos ver y editar todos los elementos que contenga.
+ A su vez podemos realizar bucles con la ayuda de FOR y otros elementos.
