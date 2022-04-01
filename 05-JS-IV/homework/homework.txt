@@ -1,0 +1,12 @@
+Objetos: El objeto es un elemento demasiado parecido a la matriz con la diferencia de que mientras 
+el array guarda diferentes tipos de datos, el objeto almacena mucha informacion acerca de una misma cosa. 
+
+Propiedades: Estas son las palabras claves que se encuentran en un objeto para almacenar datos dentro de ellas,
+por ejemplo una propiedad "Color" puede contener strings como ("rojo", "verde", "amarillo").
+
+Métodos: Los metodos son funciones que se asignan a una propiedad, se puede establecer una clave 
+para un nombre y el valor para la funcion.
+
+Bucle `for…in`:
+
+Notación de puntos vs notación de corchetes:
