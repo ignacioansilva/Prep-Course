@@ -7,6 +7,10 @@ por ejemplo una propiedad "Color" puede contener strings como ("rojo", "verde", 
 Métodos: Los metodos son funciones que se asignan a una propiedad, se puede establecer una clave 
 para un nombre y el valor para la funcion.
 
-Bucle `for…in`:
+Bucle `for…in`: El bucle for in se utiliza para iterar dentro de los objetos. utiliza un metodo que conlleva
+una clave seguida de la palabra IN y elñ nombre de nuestro objeto, esto recorre todas las claves del objeto y finaliza
+cuando se hayan iterado todas las claves.
 
-Notación de puntos vs notación de corchetes:
+Notación de puntos vs notación de corchetes: La notacion de corchetes es como llamar a un 
+elemento de una matriz pero en esta se necesita una cadena o un numero. Mientras que con la notacion de puntos 
+podemos llamar directamente al nombre de un objeto.

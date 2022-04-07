@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png");
+}
+* {
+    text-align: center;
+}
+h1 {
+    color: saddlebrown;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    margin: auto;
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    background-color: rgb(230, 50, 95); 
+    border: solid crimson 7px;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
